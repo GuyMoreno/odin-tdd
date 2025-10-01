@@ -51,6 +51,4 @@ function caesarCipherSimple(str, shift) {
   );
 }
 
-console.log(caesarCipherSimple("AbC", 3));
-
 module.exports = caesarCipherSimple;
